@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "§6Redstonless\n§a禁用红石合成\n§6by Youmiel"
+    "pack_format": 7,
+    "description": "§6RedstonLess v2.0.0\n§a禁用红石合成\n§6by Youmiel",
+    "version":"2.0.0"
   }
 }
