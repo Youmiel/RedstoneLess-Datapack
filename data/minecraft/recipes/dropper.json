@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:air"
+      "item": "minecraft:structure_void"
     }
   },
   "result": {
-    "item": "minecraft:air"
+    "item": "minecraft:barrier"
   }
 }
